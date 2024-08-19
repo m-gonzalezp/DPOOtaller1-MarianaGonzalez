@@ -1,0 +1,13 @@
+tipo:CORRIENTE:14500:567231.89
+tipo:STAR:25150:160372.0
+tipo:GASS:16300:67543.0
+tipo:PLUS:17000:387629.54
+surtidor:Arturo:CORRIENTE:0.0:STAR:0.0:GASS:0.0:PLUS:0.0
+surtidor:Sonia:CORRIENTE:0.0:STAR:0.0:GASS:0.0:PLUS:0.0
+surtidor:Lucia:CORRIENTE:0.0:STAR:0.0:GASS:0.0:PLUS:0.0
+surtidor:Jose:CORRIENTE:0.0:STAR:0.0:GASS:0.0:PLUS:0.0
+empleado:Jose:0
+empleado:Ricardo:0
+empleado:Lucia:0
+empleado:Arturo:0
+empleado:Sonia:0
